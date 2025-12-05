@@ -1,0 +1,10 @@
+aws_region       = "us-west-2"
+
+# Hosted zone ID تبع allopswithahmad.com  (يعطيكم إياه أحمد)
+route53_zone_id  = "ZXXXXXXXXXXXXX"
+
+# السب دومين تبعك إنت و شريكك
+subdomain_name   = "mohammad-aliyan.allopswithahmad.com"
+
+lb_dns_name      = "a62766389bd3f410ab789de92fa009e9-678903922.us-west-2.elb.amazonaws.com"
+lb_zone_id       = "ZXXXXXXXXXXXX"  # من صفحة الـ Load Balancer
